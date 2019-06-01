@@ -1,5 +1,3 @@
-print ("hello world")
-for i in range(1,10):
-	print (i)
-
+def add(x,y)
+	return x*y
 print ("Execution completed !!")
